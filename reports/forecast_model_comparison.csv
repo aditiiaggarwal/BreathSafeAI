@@ -1,0 +1,4 @@
+Horizon,Training Records,Testing Records,RF MAE,Baseline MAE,RF RMSE,Baseline RMSE,RF R2,Baseline R2,MAE Improvement (%)
+1 Day,15495,8718,20.23,19.64,32.08,33.75,0.8512,0.8352,-2.99
+3 Day,15403,8678,30.29,31.77,45.14,52.29,0.7059,0.6054,4.66
+7 Day,15275,8617,33.72,35.6,48.88,57.23,0.6553,0.5276,5.28
