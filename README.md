@@ -194,24 +194,29 @@ The main goal of BreathSafeAI is to combine data analytics and machine learning 
 
 Rather than only displaying current pollution levels, the project also explores historical trends and future AQI predictions to provide a broader understanding of air pollution.
 
-## 🔮 Future Scope
 
-Some improvements that could make BreathSafeAI even more useful include:
+## 📸 Project Screenshots
 
-- Adding more real-time air quality data sources.
-- Improving prediction accuracy with additional environmental parameters.
-- Introducing location-based pollution alerts.
-- Enhancing future forecasting with more advanced models.
-- Deploying the dashboard so users can access it online.
+### Home Page
+![Home Page](screenshots/home.png)
+
+### AQI Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### AQI Prediction
+![Prediction](screenshots/forecast.png)
 
 ## 👩‍💻 Developed By
 
-**Aditi Aggarwal**
-**Jiya Malhotra**
+## 👩‍💻 Developed By
+
+**Aditi Aggarwal** & **Jiya Malhotra**
+
+*Together, building BreathSafeAI to make air quality monitoring smarter! 🌿*
 
 Computer Science Engineering – AI & Deep Learning
 
-Interests: Artificial Intelligence | Machine Learning | Python | Data Analytics
+
 
 ---
 
