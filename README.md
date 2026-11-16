@@ -206,7 +206,7 @@ Rather than only displaying current pollution levels, the project also explores 
 ### AQI Prediction
 ![Prediction](screenshots/forecast.png)
 
-## 👩‍💻 Developed By
+
 
 ## 👩‍💻 Developed By
 
